@@ -10,18 +10,28 @@
 #### Training Plots
 <table>
   <tr>
-    <td><img src="unique_states.png" alt="Q-Learning Unique States" width="300"></td>
-    <td><img src="epsilon_decay.png" alt="Q-Learning Epsilon Decay" width="300"></td>
-    <td><img src="episode_rewards.png" alt="Q-Learning Episode Rewards" width="300"></td>
+    <td><img src="Q_Learning/q1.png" alt="Q-Learning Rewards" width="300"></td>
+    <td><img src="Q_Learning/q2.png" alt="Q-Learning States" width="300"></td>
+    <td><img src="Q_Learning/q3.png" alt="Q-Learning Decay" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center">Rewards</td>
+    <td align="center">States</td>
+    <td align="center">Epsilon Decay</td>
   </tr>
 </table>
 
 #### Simulation GIFs
 <table>
   <tr>
-    <td><img src="ql_500.gif" alt="Q-Learning at 500 episodes" width="200"></td>
-    <td><img src="ql_1000.gif" alt="Q-Learning at 1000 episodes" width="200"></td>
-    <td><img src="ql_1500.gif" alt="Q-Learning at 1500 episodes" width="200"></td>
+    <td><img src="Q_Learning/ql_500.gif" alt="Episode 500" width="200"></td>
+    <td><img src="Q_Learning/ql_1000.gif" alt="Episode 1000" width="200"></td>
+    <td><img src="Q_Learning/ql_1500.gif" alt="Episode 1500" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center">500 Episodes</td>
+    <td align="center">1000 Episodes</td>
+    <td align="center">1500 Episodes</td>
   </tr>
 </table>
 
@@ -30,18 +40,28 @@
 #### Training Plots
 <table>
   <tr>
-    <td><img src="unique_states.png" alt="DQN Unique States" width="300"></td>
-    <td><img src="epsilon_decay.png" alt="DQN Epsilon Decay" width="300"></td>
-    <td><img src="episode_rewards.png" alt="DQN Episode Rewards" width="300"></td>
+    <td><img src="DQN/plots/dqn1.png" alt="DQN Rewards" width="300"></td>
+    <td><img src="DQN/plots/dqn2.png" alt="DQN States" width="300"></td>
+    <td><img src="DQN/plots/dqn3.png" alt="DQN Decay" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center">Rewards</td>
+    <td align="center">States</td>
+    <td align="center">Epsilon Decay</td>
   </tr>
 </table>
 
 #### Simulation GIFs
 <table>
   <tr>
-    <td><img src="dqn_500.gif" alt="DQN at 500 episodes" width="200"></td>
-    <td><img src="dqn_1000.gif" alt="DQN at 1000 episodes" width="200"></td>
-    <td><img src="dqn_1500.gif" alt="DQN at 1500 episodes" width="200"></td>
+    <td><img src="DQN/plots/dqn_500.gif" alt="Episode 500" width="200"></td>
+    <td><img src="DQN/plots/dqn_1000.gif" alt="Episode 1000" width="200"></td>
+    <td><img src="DQN/plots/dqn_1500.gif" alt="Episode 1500" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center">500 Episodes</td>
+    <td align="center">1000 Episodes</td>
+    <td align="center">1500 Episodes</td>
   </tr>
 </table>
 ---

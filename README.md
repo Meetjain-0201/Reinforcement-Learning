@@ -2,6 +2,48 @@
 
 🚗 **Train autonomous agents to master 2D race tracks using Q-Learning and DQN!**  
 
+
+## Results
+
+### Q-Learning
+
+#### Training Plots
+<table>
+  <tr>
+    <td><img src="unique_states.png" alt="Q-Learning Unique States" width="300"></td>
+    <td><img src="epsilon_decay.png" alt="Q-Learning Epsilon Decay" width="300"></td>
+    <td><img src="episode_rewards.png" alt="Q-Learning Episode Rewards" width="300"></td>
+  </tr>
+</table>
+
+#### Simulation GIFs
+<table>
+  <tr>
+    <td><img src="ql_500.gif" alt="Q-Learning at 500 episodes" width="200"></td>
+    <td><img src="ql_1000.gif" alt="Q-Learning at 1000 episodes" width="200"></td>
+    <td><img src="ql_1500.gif" alt="Q-Learning at 1500 episodes" width="200"></td>
+  </tr>
+</table>
+
+### DQN
+
+#### Training Plots
+<table>
+  <tr>
+    <td><img src="unique_states.png" alt="DQN Unique States" width="300"></td>
+    <td><img src="epsilon_decay.png" alt="DQN Epsilon Decay" width="300"></td>
+    <td><img src="episode_rewards.png" alt="DQN Episode Rewards" width="300"></td>
+  </tr>
+</table>
+
+#### Simulation GIFs
+<table>
+  <tr>
+    <td><img src="dqn_500.gif" alt="DQN at 500 episodes" width="200"></td>
+    <td><img src="dqn_1000.gif" alt="DQN at 1000 episodes" width="200"></td>
+    <td><img src="dqn_1500.gif" alt="DQN at 1500 episodes" width="200"></td>
+  </tr>
+</table>
 ---
 
 ## 📌 Overview  
